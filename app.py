@@ -14,10 +14,11 @@ st.write("Hello! Ye mera pehla AI web app hai.")
 # Button interaction
 if st.button("Celebrate My First App!"):
     st.balloons()
-    st.success("Congratulations! Shivansh, aapka code live ho gaya hai!")
+    st.success("Congratulations! you are set to talk!")
 
 # Sidebar info
 st.sidebar.title("Project Info")
 st.sidebar.info("Week 1: Successful Deployment")
+
 
 
